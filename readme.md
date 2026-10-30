@@ -16,7 +16,7 @@ The project is built with a focus on a custom text-based user interface (TUI) wi
 * **Native Integration:** operates directly through Windows CryptoAPI utilizing standard cryptographic providers
 
 ### Controls
-* **`↑` / `↓`** — Navigate menu items.
+* **`^` / `v`** — Navigate menu items.
 * **`Enter`** — Confirm selection and proceed to text input.
 * **`ESC`** — Exit the program.
 
@@ -44,7 +44,7 @@ This project is distributed for educational and personal purposes.
 * **Нативная интеграция:** Работает напрямую через Windows CryptoAPI, используя системные криптографические провайдеры.
 
 ### Управление в программе
-* **`↑` / `↓**` — Навигация по пунктам меню.
+* **`^` / `v**` — Навигация по пунктам меню.
 * **`Enter`** — Выбор алгоритма и переход к вводу текста.
 * **`ESC`** — Выход из программы.
 
